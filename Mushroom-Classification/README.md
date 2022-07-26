@@ -24,11 +24,11 @@ classes: edible(食用)=e, poisonous(毒)=p
 におい：アーモンド= a、アニス= l、クレオソート= c、フィッシュ= y、ファウル= f、ムスティ= m、なし= n、辛味= p、スパイシー= s  
 
 
-## gill-attachment: attached=a,descending=d,free=f,notched=n
+## gill-attachment: 
+ひだの付着物：付いていた=a、減っている=d、付いてない=f、傷がある=n
 
-
-## gill-spacing: close=c,crowded=w,distant=d
-ひだの間隔: close=c, crowded = w, distant = d
+## gill-spacing: 
+ひだの間隔: 近い=c、混雑=w、遠い=d
 
 
 ## gill-size:  
@@ -39,12 +39,12 @@ classes: edible(食用)=e, poisonous(毒)=p
 ひだの色：黒= k、茶色= n、バフ= b、チョコレート= h、灰色= g、緑= r、オレンジ= o、ピンク= p、紫= u、赤= e、白= w、黄色= y  
 
 
-## stalk-shape: enlarging=e,tapering=t
-茎の形：拡大= e、テーパー= t
+## stalk-shape: 
+茎の形：太い= e、細い= t
 
 
-## stalk-root: bulbous=b,club=c,cup=u,equal=e,rhizomorphs=z,rooted=r,missing=?
-茎の根：bulbous = b、club = c、cup = u、equal = e、rhizomorphs = z、rooted = r、missing =？
+## stalk-root: 
+茎の根：球根状 = b、太くて重い = c、杯状 = u、均等 = e、菌糸束 = z、根づいている = r、不明 =？
 
 
 ## stalk-surface-above-ring:  
@@ -75,7 +75,8 @@ classes: edible(食用)=e, poisonous(毒)=p
 リング番号：なし= n、1 = o、2 = t  
 
 
-## ring-type: cobwebby=c,evanescent=e,flaring=f,large=l,none=n,pendant=p,sheathing=s,zone=z
+## ring-type: 
+リングタイプ：軽く薄い=c,次第に消えてゆく=e,派手=f,大きい=l,none=n,ペンダント=p,覆われている=s,帯=z
 
 
 ## spore-print-color:  
