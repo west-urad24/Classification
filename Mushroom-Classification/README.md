@@ -82,7 +82,7 @@ spore-print-color:
 胞子紋の色：黒= k、茶色= n、バフ= b、チョコレート= h、緑= r、オレンジ= o、紫= u、白= w、黄色= y  
 
 
-population: 
+population:  
 人口　豊富な=a、クラスター化された= c、多数の= n、分散された= s、いくつかの= v、孤立した= y  
 
 
