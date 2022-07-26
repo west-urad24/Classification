@@ -1,20 +1,28 @@
-#　目的関数  
+# 目的関数 
 classes: edible(食用)=e, poisonous(毒)=p
 
 
-特徴量  
-cap-shape:
-
-
+# 特徴量
+cap-shape:  
 形状：ベル= b、円錐= c、凸= x、フラット= f、こぶ= k、沈み= s  
-cap-surface:
-表面：繊維状= f、溝= g、うろこ状= y、滑らか= s
-cap-color:
-色：ブラウン= n、バフ= b、シナモン= c、グレー= g、グリーン= r、ピンク= p、パープル= u、レッド= e、ホワイト= w、イエロー= y
-bruises:
-あざ：あざ= t、あざがない = f
-odor:
-におい：アーモンド= a、アニス= l、クレオソート= c、フィッシュ= y、ファウル= f、ムスティ= m、なし= n、辛味= p、スパイシー= s
+
+
+cap-surface:  
+表面：繊維状= f、溝= g、うろこ状= y、滑らか= s  
+
+
+cap-color:  
+色：ブラウン= n、バフ= b、シナモン= c、グレー= g、グリーン= r、ピンク= p、パープル= u、レッド= e、ホワイト= w、イエロー= y  
+
+
+bruises:  
+あざ：あざ= t、あざがない = f  
+
+
+odor:  
+におい：アーモンド= a、アニス= l、クレオソート= c、フィッシュ= y、ファウル= f、ムスティ= m、なし= n、辛味= p、スパイシー= s  
+
+
 gill-attachment: attached=a,descending=d,free=f,notched=n
 gill-spacing: close=c,crowded=w,distant=d
 ひだの間隔: close=c, crowded = w, distant = d
