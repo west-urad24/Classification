@@ -1,6 +1,7 @@
 ①Kaggleからmushrooms.csvをダウンロード  
 # 目的関数 
-○classes: edible(食用)=e, poisonous(毒)=p
+## classes: 
+○edible(食用)=e, poisonous(毒)=p
 
 
 # 特徴量
