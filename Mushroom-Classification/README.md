@@ -4,7 +4,7 @@ classes: edible(食用)=e, poisonous(毒)=p
 
 
 # 特徴量
-##　cap-shape:  
+## cap-shape:  
 形状：ベル= b、円錐= c、凸= x、フラット= f、こぶ= k、沈み= s  
 
 
