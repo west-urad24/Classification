@@ -1,7 +1,7 @@
 [参考書](https://www.amazon.co.jp/作ってわかる-自然言語処理AI〜BERT・GPT2・NLPプログラミング入門-坂本-俊之/dp/4863543700)を用いてBERTモデルを作成します。  
 クラス分類や要約のタスクを投稿していく予定です。また、様々な論文を読んで自分なりのアプローチを考えていきます。
 
-# 準備  
+# 準備(cpu環境)  
 ## トークンのリストを入手  
 ①トークナイズされた文書と絵文字のファイルをダウンロード  
 wget https://github.com/tanreinama/Japanese-BPEEncoder_V2/raw/master/ja-swe24k.txt  
