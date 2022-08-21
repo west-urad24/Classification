@@ -31,4 +31,4 @@ python3 encode_swe.py --vocabulary ja-swe24k.txt --src_dir wiki_contents --dst_f
 
 ## MLM  
 
-# BERT
+# BERT(Google Colab)
