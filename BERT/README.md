@@ -25,8 +25,10 @@ python3 encode_swe.py --vocabulary ja-swe24k.txt --src_dir wiki_contents --dst_f
 
 これでTransformerモデルの事前学習を行えます。  
 
-# ニューラルネットワーク  
+## ニューラルネットワーク  
 
-# Transformer  
+## Transformer  
 
-# MLM
+## MLM  
+
+# BERT
