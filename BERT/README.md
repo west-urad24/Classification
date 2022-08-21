@@ -20,4 +20,6 @@ python3 -m wikiextractor.WikiExtractor jawiki-latest-pages-articles.xml.bz2 -o w
 python3 wiki_copy.py --src_dir wiki_text --dst_dir wiki_contents  
 
 ⑥エンコード済みファイルの作成  
-python3 encode_swe.py --vocabulary ja-swe24k.txt --src_dir wiki_contents --dst_file wiki_encode24k
+python3 encode_swe.py --vocabulary ja-swe24k.txt --src_dir wiki_contents --dst_file wiki_encode24k  
+
+これでTransformerモデルの事前学習を行えます。
